@@ -6,7 +6,4 @@
 #define WINSHELL_MAIN_H
 
 
-
-
-
 #endif //WINSHELL_MAIN_H
